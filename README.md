@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [jdbc-swiss-knife](https://github.com/tharos70/jdbc-swiss-knife)
 
-- 🌱 I’m currently learning **JPA**
+- 🌱 I’m currently learning **Daily Journaling**
 
 - 📫 How to reach me **tharos70@gmail.com**
 
